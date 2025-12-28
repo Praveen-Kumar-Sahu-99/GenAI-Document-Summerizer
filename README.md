@@ -2,7 +2,7 @@
 This project is a Python-based PDF Document Summarizer that implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, embeddings, and Pinecone.
 The system allows users to load a PDF, store its semantic representations in a vector database, and perform context-aware question answering and summarization
 
-## Problem Statement
+**Problem Statement**
 Reading and extracting insights from long PDF documents is time-consuming and inefficient.
 This project explores how Retrieval-Augmented Generation (RAG) can be used to automate
 document summarization and question answering while grounding responses in source content.
