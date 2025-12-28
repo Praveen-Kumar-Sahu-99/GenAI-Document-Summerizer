@@ -1,4 +1,4 @@
-# GenAI-Document-Summerizer
+# GenAI-Document-Summerizer and Q&A Bot
 This project is a Python-based PDF Document Summarizer that implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, embeddings, and Pinecone.
 The system allows users to load a PDF, store its semantic representations in a vector database, and perform context-aware question answering and summarization
 
